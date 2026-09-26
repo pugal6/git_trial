@@ -1,3 +1,4 @@
 public static void main(String args[]) {
-	print("hello");
+	Sysout("hello world");
+  print("hello");
 }
